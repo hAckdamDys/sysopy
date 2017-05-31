@@ -1,0 +1,9 @@
+ls
+ps
+echo 'xd' lol
+./zad1b xd
+#xd dxd
+./zad1b xd
+#xd
+./zad1b xd
+./zad1b PATH

@@ -1,0 +1,1621 @@
+/home/adam/.dmrc
+File size: 29
+File Permissions: 	-rw-------
+Last file modification:   Mon Mar 27 19:36:13 2017
+
+/home/adam/.npm/c0391250--npmjs-org-async-async-1-5-2-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/6a8a039f-83395-0-7089805731084198-tmp-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/9f4d3798-css-selector-tokenizer-0-5-4.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/01e1b4fe-postcss-modules-values-1-2-2-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/21c6b3dc-rrow-functions-6-8-0-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/bdb57c95-helpers-babel-helpers-6-16-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/434d33fc-minimatch-3-0-2.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/031f5992-babel-code-frame-6-16-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/578d45ac-dash-camelcase-3-0-1-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/4858ca4c-master-static-node-modules-three.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/b29af62e-r-static-node-modules-babel-core.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:31:53 2016
+
+/home/adam/.npm/0a684ba0-3402-0-10337724769487977-tmp-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-block-scoped-functions/6.8.0/package/.npmignore
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/b6792cf3-s2015-modules-amd-6-18-0-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/b5e39568-015-duplicate-keys-6-8-0-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-object-super/6.8.0/package/.npmignore
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/6c4410c0--modules-commonjs-6-18-0-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-function-name/6.9.0/package/.npmignore
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/8968b51f-mkdirp-0-5-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/4feca780-82933-0-3468190331477672-tmp-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/postcss-safe-parser/1.0.7/package/CHANGELOG.md
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Feb 29 09:34:12 2016
+
+/home/adam/.npm/postcss-safe-parser/1.0.7/package/README.md
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Feb 29 09:34:12 2016
+
+/home/adam/.npm/92739cd8-83363-0-5598223842680454-tmp-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/854bf4ac-s-modules-local-by-default-1-1-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/2335bc80-pmjs-org-mkdirp-mkdirp-0-5-1-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/dfd0a9d4-duplicate-keys-6-8-0-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/287e81fd-source-list-map-0-1-7.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/6c362d39-ss-modules-extract-imports-1-0-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/2d9fb921-m-npm-webpack-1-13-3-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/3d482d34-s-modules-local-by-default-1-0-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/d0d65d29-ansform-es2015-for-of-6-18-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/c6356ad9-2951-0-23816789779812098-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/ba572341-es2015-for-of-6-18-0-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-destructuring/6.19.0/package/.npmignore
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-destructuring/6.19.0/package/package.json
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Nov 16 17:15:30 2016
+
+/home/adam/.npm/476a8b17-lodash-camelcase-3-0-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/9f2ecad2-lodash-camelcase-3-0-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-block-scoping/6.18.0/package/.npmignore
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-block-scoping/6.18.0/package/package.json
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Oct 24 23:18:35 2016
+
+/home/adam/.npm/find-cache-dir/0.1.1/package.tgz
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/25277486-3394-0-19085925724357367-tmp-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/num2fraction/1.2.2/package/.npmignore
+File size: 70
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Jan  5 08:51:33 2015
+
+/home/adam/.npm/5451ca70-ster-static-node-modules-webpack.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/20ec6cb4-async-1-4-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-for-of/6.18.0/package/.npmignore
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-for-of/6.18.0/package/README.md
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/36b143f1-015-destructuring-6-19-0-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/50dea537-odules-extract-imports-1-0-1-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/43745984-es-extract-imports-1-0-1-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-template-literals/6.8.0/package/.npmignore
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-template-literals/6.8.0/package/package.json
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue May  3 01:43:48 2016
+
+/home/adam/.npm/0add5472-path-is-absolute-1-0-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/mime/1.2.11/package.tgz
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-spread/6.8.0/package/.npmignore
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-spread/6.8.0/package/README.md
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Apr 20 04:00:36 2016
+
+/home/adam/.npm/c0726aad-convert-source-map-1-1-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-modules-systemjs/6.19.0/package/.npmignore
+File size: 22
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-duplicate-keys/6.8.0/package/.npmignore
+File size: 22
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Apr 20 04:00:36 2016
+
+/home/adam/.npm/948fb5bc-83240-0-9156222036108375-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/4cfe0d1f-path-is-absolute-1-0-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/41ff8aeb-3484-0-14133236999623477-tmp-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-shorthand-properties/6.18.0/package/.npmignore
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/427a0555-olute-path-is-absolute-1-0-1-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/buckets-js/1.98.1/package/.npmignore
+File size: 50
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Dec 15 03:33:39 2015
+
+/home/adam/.npm/8b922525-2015-template-literals-6-8-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/bd8c95a1-3484-0-14133236999623477-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/1b9dd706-rm-es2015-modules-amd-6-18-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/e7b9c87d--adam-npm-tone-0-8-0-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/supports-color/3.1.2/package/browser.js
+File size: 38
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Jul 18 16:24:30 2015
+
+/home/adam/.npm/557fad30-dules-local-by-default-1-1-1-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-parameters/6.18.0/package/.npmignore
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/970fa083-postcss-modules-scope-1-0-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/24c87728-babel-types-6-19-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/112ae3d2-pm-buckets-js-1-98-1-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:31:53 2016
+
+/home/adam/.npm/1edaf4dc-minimatch-3-0-3.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/a0712527-map-convert-source-map-1-3-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-modules-amd/6.18.0/package/.npmignore
+File size: 22
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-modules-amd/6.18.0/package/README.md
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/4c21faad-pm-babel-core-6-18-2-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:31:53 2016
+
+/home/adam/.npm/2dce593f-2951-0-23816789779812098-tmp-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/49b64849-5-modules-umd-6-18-0-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/dc730c40-83240-0-9156222036108375-tmp-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/three/0.81.2/package/examples/fonts/README
+File size: 85
+File Permissions: 	-rw-r--r--
+Last file modification:   Fri May 20 04:43:21 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/begin_vertex.glsl
+File size: 38
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/color_fragment.glsl
+File size: 54
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/map_pars_fragment.glsl
+File size: 48
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/metalnessmap_pars_fragment.glsl
+File size: 65
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/alphamap_fragment.glsl
+File size: 78
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/uv2_pars_fragment.glsl
+File size: 80
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/specularmap_pars_fragment.glsl
+File size: 63
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/uv2_vertex.glsl
+File size: 73
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/tonemapping_fragment.glsl
+File size: 91
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/beginnormal_vertex.glsl
+File size: 37
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/aomap_pars_fragment.glsl
+File size: 82
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/map_particle_pars_fragment.glsl
+File size: 76
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/alphatest_fragment.glsl
+File size: 70
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/color_pars_vertex.glsl
+File size: 47
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/emissivemap_pars_fragment.glsl
+File size: 64
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/encodings_fragment.glsl
+File size: 54
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/color_pars_fragment.glsl
+File size: 48
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/alphamap_pars_fragment.glsl
+File size: 58
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/color_vertex.glsl
+File size: 50
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/lightmap_pars_fragment.glsl
+File size: 91
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/three/0.81.2/package/src/renderers/shaders/ShaderChunk/roughnessmap_pars_fragment.glsl
+File size: 65
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 22 18:36:39 2016
+
+/home/adam/.npm/c1928a05-js-org-cssnano-cssnano-3-8-1-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/69e6b4ee-babel-messages-6-8-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/1a2325a5-ome-adam-npm-mime-1-2-11-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/6dd63286--es2015-duplicate-keys-6-8-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/75ee261e-find-cache-dir-0-1-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/f270b189-npm-find-cache-dir-0-1-1-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-modules-umd/6.18.0/package/.npmignore
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-modules-umd/6.18.0/package/package.json
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Oct 24 23:18:35 2016
+
+/home/adam/.npm/postcss-modules-extract-imports/1.0.1/package.tgz
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/2d6754e3-async-1-5-2.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/abebdb50-find-cache-dir-0-1-1-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/96088431-postcss-modules-scope-1-0-2.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/e082273b-2015-modules-commonjs-6-18-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/904de93b-3394-0-19085925724357367-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/babel-helpers/.cache.json
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/events/1.1.1/package/.npmignore
+File size: 13
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Jun 22 17:53:40 2016
+
+/home/adam/.npm/0f35993c-plate-literals-6-8-0-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/fc281ad9-82933-0-3468190331477672-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/1932a7d6-ules-commonjs-6-18-0-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-arrow-functions/6.8.0/package/.npmignore
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-arrow-functions/6.8.0/package/README.md
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Apr 20 04:00:36 2016
+
+/home/adam/.npm/087d5967-mime-1-2-x.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/domready/1.0.8/package/.npmignore
+File size: 12
+File Permissions: 	-rw-r--r--
+Last file modification:   Sun Aug 10 07:29:46 2014
+
+/home/adam/.npm/domready/1.0.8/package/Makefile
+File size: 26
+File Permissions: 	-rw-r--r--
+Last file modification:   Sun Aug 10 07:29:46 2014
+
+/home/adam/.npm/postcss/5.2.6/package/d.ts/warn-once.d.ts
+File size: 74
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 22 13:45:40 2016
+
+/home/adam/.npm/postcss/5.2.6/package/d.ts/tokenize.d.ts
+File size: 53
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 22 13:45:40 2016
+
+/home/adam/.npm/904d6243-15-arrow-functions-6-8-0-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/caniuse-db/1.0.30000591/package/.npmignore
+File size: 84
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Jan 28 05:34:13 2014
+
+/home/adam/.npm/67c3cda2-83267-0-6945494383107871-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/css-loader/0.23.1/package/.npmignore
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu May 14 15:51:17 2015
+
+/home/adam/.npm/3b0f846b-postcss-5-0-6.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/path-is-absolute/.cache.json
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/fc3123f7-cssnano-3-8-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/1e60504a-3519-0-10228249756619334-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:31:53 2016
+
+/home/adam/.npm/9283e6db-3399-0-26706484239548445-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/4515eb10-mkdirp-0-5-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/c04681e2-s2015-modules-umd-6-18-0-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/28884cdd-destructuring-6-19-0-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/2376180f-cssnano-2-6-1-4.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/b4e17509--es2015-block-scoping-6-18-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/93840d89-postcss-modules-values-1-1-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-typeof-symbol/6.18.0/package/.npmignore
+File size: 22
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/babel-plugin-check-es2015-constants/6.8.0/package/.npmignore
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/babel-plugin-check-es2015-constants/6.8.0/package/lib/index.js
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue May  3 01:43:30 2016
+
+/home/adam/.npm/babel-plugin-check-es2015-constants/6.8.0/package/README.md
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-classes/6.18.0/package/.npmignore
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/501b2346-es2015-arrow-functions-6-8-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/8b7272d2-rame-babel-code-frame-6-16-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/webpack/1.13.3/package/web_modules/node-libs-browser.js
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Jan  3 17:07:20 2015
+
+/home/adam/.npm/webpack/1.13.3/package/buildin/amd-options.js
+File size: 42
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Jan  3 17:07:20 2015
+
+/home/adam/.npm/webpack/1.13.3/package/buildin/amd-define.js
+File size: 84
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Jan  3 17:07:20 2015
+
+/home/adam/.npm/webpack/1.13.3/package/buildin/return-require.js
+File size: 60
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Jan  3 17:07:20 2015
+
+/home/adam/.npm/5361c3e1-83267-0-6945494383107871-tmp-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/js-base64/2.1.9/package/.npmignore
+File size: 42
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Apr  8 14:53:12 2013
+
+/home/adam/.npm/js-base64/2.1.9/package/.travis.yml
+File size: 49
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Apr  8 14:53:12 2013
+
+/home/adam/.npm/babel-plugin-transform-regenerator/6.16.1/package/.npmignore
+File size: 20
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/babel-preset-es2015/6.18.0/package/.npmignore
+File size: 22
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:22 2016
+
+/home/adam/.npm/f1c0a7b5-bel-types-babel-types-6-19-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/cddb708b-xtract-imports-1-0-1-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/7d50afd2-adam-npm-mime-1-2-11-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/ea89ee23-er-static-node-modules-node-sass.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/4ed32a7e-3519-0-10228249756619334-tmp-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:31:53 2016
+
+/home/adam/.npm/c4b0741f-mime-1-2-11.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/353c57e1-css-selector-tokenizer-0-5-4-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/20754f3a-lcase-lodash-camelcase-3-0-1-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/de00f12a--template-literals-6-8-0-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/836084a4-babel-helpers-6-16-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-modules-commonjs/6.18.0/package/.npmignore
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-modules-commonjs/6.18.0/package/README.md
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/ba170f44-r-static-node-modules-buckets-js.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:31:53 2016
+
+/home/adam/.npm/e6706473-3399-0-26706484239548445-tmp-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/ccbd5efc-orm-es2015-for-of-6-18-0-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-computed-properties/6.8.0/package/.npmignore
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-computed-properties/6.8.0/package/lib/index.js
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue May  3 01:43:32 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-computed-properties/6.8.0/package/README.md
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Apr 20 04:00:36 2016
+
+/home/adam/.npm/babel-core/6.18.2/package/index.js
+File size: 47
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Oct 18 00:44:21 2016
+
+/home/adam/.npm/url-loader/0.5.7/package/.npmignore
+File size: 12
+File Permissions: 	-rw-r--r--
+Last file modification:   Sun May 24 09:31:52 2015
+
+/home/adam/.npm/babel-plugin-transform-es2015-unicode-regex/6.11.0/package/.npmignore
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/cec59ff3-convert-source-map-1-3-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/c98d5dc9-ss-modules-extract-imports-1-0-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/style-loader/0.13.1/package/.npmignore
+File size: 11
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Sep 16 22:18:26 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/src/libsass/docs/api-value-example.md
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 03:17:01 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/src/libsass/INSTALL
+File size: 49
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 30 07:08:30 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/src/libsass/m4/.gitkeep
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 30 07:08:30 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/src/libsass/.gitattributes
+File size: 66
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 30 07:08:30 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/src/libsass/script/spec
+File size: 58
+File Permissions: 	-rwxr-xr-x
+Last file modification:   Mon Mar 30 07:08:30 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/src/libsass/script/ci-install-compiler
+File size: 54
+File Permissions: 	-rwxr-xr-x
+Last file modification:   Mon Mar 30 07:08:30 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/src/libsass/script/tap-runner
+File size: 15
+File Permissions: 	-rwxr-xr-x
+Last file modification:   Mon Mar 30 07:08:30 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/precision/index.scss
+File size: 34
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Feb 10 01:14:54 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/precision/expected.css
+File size: 34
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Feb 10 01:14:54 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/custom-functions/string-conversion-expected.css
+File size: 30
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 30 07:31:57 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/custom-functions/setter.scss
+File size: 45
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 30 07:31:57 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/custom-functions/string-conversion.scss
+File size: 27
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 30 07:31:57 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/custom-functions/setter-expected.css
+File size: 43
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 30 07:31:57 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/extras/my_custom_importer_error.js
+File size: 72
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 30 07:31:57 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/extras/my_custom_importer_data.js
+File size: 86
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Mar 11 03:42:44 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/invalid/index.scss
+File size: 37
+File Permissions: 	-rw-r--r--
+Last file modification:   Sun Apr 19 16:14:03 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/indent/index.sass
+File size: 27
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Feb 10 01:14:54 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/indent/expected.css
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Feb 10 01:14:54 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/watching/index.sass
+File size: 20
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Aug 26 04:15:04 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/watching/white.scss
+File size: 23
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 17 01:58:25 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/watching/index.scss
+File size: 19
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 17 01:58:25 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/watching/bar.sass
+File size: 24
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Aug 26 04:42:56 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/include-path/lib/vars.scss
+File size: 13
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Feb 10 01:14:54 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/include-path/index.scss
+File size: 91
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Feb 10 01:14:54 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/include-path/functions/colorBlue.scss
+File size: 45
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Feb 10 01:14:54 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/include-path/expected.css
+File size: 46
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Feb 10 01:14:54 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/watching-dir-01/index.scss
+File size: 17
+File Permissions: 	-rw-r--r--
+Last file modification:   Fri Sep 18 05:37:13 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/depth-first/_vars.scss
+File size: 84
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/depth-first/b.scss
+File size: 42
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/depth-first/b1.scss
+File size: 27
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/depth-first/a1.scss
+File size: 27
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/depth-first/index.scss
+File size: 100
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/depth-first/a.scss
+File size: 62
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/depth-first/_common.scss
+File size: 84
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/depth-first/_struct.scss
+File size: 49
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/watching-dir-02/index.scss
+File size: 17
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Sep 17 01:58:25 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/watching-dir-02/foo.scss
+File size: 23
+File Permissions: 	-rw-r--r--
+Last file modification:   Fri Sep 18 05:37:14 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/sass-path/expected-red.css
+File size: 29
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/sass-path/red/colors.scss
+File size: 13
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/sass-path/index.scss
+File size: 51
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/sass-path/orange/colors.scss
+File size: 16
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/sass-path/expected-orange.css
+File size: 32
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/include-files/expected-importer.css
+File size: 51
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Feb 10 01:14:54 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/include-files/bar.scss
+File size: 15
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/include-files/index.scss
+File size: 30
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Feb 10 01:14:54 2015
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/include-files/file-processed-by-loader.scss
+File size: 69
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/include-files/chained-imports-with-custom-importer.scss
+File size: 68
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/include-files/foo.scss
+File size: 15
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/fixtures/include-files/file-not-processed-by-loader.scss
+File size: 58
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/node-sass/3.13.0/package/test/.eslintrc
+File size: 37
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Nov 15 23:30:49 2016
+
+/home/adam/.npm/e32798b1-npm-node-sass-3-13-0-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/a9afa245-m-lodash-camelcase-3-0-1-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/5ab3588e-babel-code-frame-6-16-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/ef6a731e-css-selector-tokenizer-0-5-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/startaudiocontext/1.2.0/package/.npmignore
+File size: 11
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Sep 14 23:13:31 2016
+
+/home/adam/.npm/9f7d5b9c-83363-0-5598223842680454-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/4389f147-83395-0-7089805731084198-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/eeef0c12--postcss-modules-scope-1-0-2-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/b3199984--master-static-node-modules-tone.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/dde51e31-3402-0-10337724769487977-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/1954b20e-babel-helpers-6-16-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/bf1074c6-babel-messages-6-8-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/76bef954-block-scoping-6-18-0-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/78551de0--es2015-destructuring-6-19-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/cff20fad-5-modules-amd-6-18-0-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/75aac2c0-015-block-scoping-6-18-0-package.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/56c09070-babel-types-6-18-0.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/b041170c-postcss-modules-values-1-2-2.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/427faa15-loader-node-modules-loader-utils.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:31:53 2016
+
+/home/adam/.npm/72070ce4-che-dir-find-cache-dir-0-1-1-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/9a5a9bce-loader-node-modules-loader-utils.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/fc809c97-source-list-map-0-1-4.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/4478161f-essages-babel-messages-6-8-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/dc4bcd45-find-cache-dir-0-1-1.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-literals/6.8.0/package/.npmignore
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/3d6f92f5-st-map-source-list-map-0-1-7-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/15845156-rm-es2015-modules-umd-6-18-0-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:23 2016
+
+/home/adam/.npm/a7f5975d-dam-npm-three-0-81-2-package-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/babel-plugin-transform-es2015-sticky-regex/6.8.0/package/.npmignore
+File size: 28
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 22 00:00:45 2016
+
+/home/adam/.npm/9f5adc10-rg-minimatch-minimatch-3-0-3-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.npm/98468155-y-npmjs-org-mime-mime-1-2-11-tgz.lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:22 2016
+
+/home/adam/.npm/lodash.camelcase/3.0.1/package.tgz
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 00:21:24 2016
+
+/home/adam/.jupyter/migrated
+File size: 26
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Nov  5 15:51:53 2016
+
+/home/adam/.gksu.lock
+File size: 0
+File Permissions: 	-rw-r-----
+Last file modification:   Sun Dec 11 23:47:03 2016
+
+/home/adam/.config/linuxmint/mintUpdate.conf
+File size: 49
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Mar  9 21:51:06 2016
+
+/home/adam/.config/chromium/chrome_shutdown_ms.txt
+File size: 4
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Feb 27 18:19:23 2016
+
+/home/adam/.config/chromium/First Run
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Feb 27 18:19:23 2016
+
+/home/adam/.config/chromium/Service State
+File size: 50
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Feb 27 18:19:23 2016
+
+/home/adam/.config/chromium/Default/User StyleSheets/Custom.css
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Feb 27 18:19:23 2016
+
+/home/adam/.config/chromium/Default/Session Storage/MANIFEST-000002
+File size: 50
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Feb 27 18:19:23 2016
+
+/home/adam/.config/chromium/Default/Session Storage/LOCK
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Feb 27 18:19:23 2016
+
+/home/adam/.config/chromium/Default/Session Storage/LOG
+File size: 47
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Feb 27 18:19:23 2016
+
+/home/adam/.config/chromium/Default/Session Storage/CURRENT
+File size: 16
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Feb 27 18:19:23 2016
+
+/home/adam/.config/chromium/Default/Managed Mode Settings
+File size: 5
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Feb 27 18:19:23 2016
+
+/home/adam/.config/chromium/Default/History Provider Cache
+File size: 57
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Feb 27 18:19:23 2016
+
+/home/adam/.config/Atom/databases/Databases.db-journal
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Sun Dec 11 23:47:39 2016
+
+/home/adam/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/LOCK
+File size: 0
+File Permissions: 	-rw-------
+Last file modification:   Sun Dec 11 23:47:39 2016
+
+/home/adam/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/CURRENT
+File size: 16
+File Permissions: 	-rw-------
+Last file modification:   Sun Dec 11 23:47:39 2016
+
+/home/adam/.config/Atom/QuotaManager-journal
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Fri Dec 16 23:19:43 2016
+
+/home/adam/.config/Atom/Local Storage/file__0.localstorage-journal
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Mar 16 15:28:04 2017
+
+/home/adam/.config/libreoffice/4/user/extensions/shared/lastsynchronized
+File size: 1
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Nov  5 14:27:36 2016
+
+/home/adam/.config/libreoffice/4/user/extensions/buildid
+File size: 13
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Nov  5 14:27:35 2016
+
+/home/adam/.config/libreoffice/4/user/extensions/bundled/lastsynchronized
+File size: 1
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Nov  5 14:27:36 2016
+
+/home/adam/.config/pulse/2cab241caff6c3f2697e187956d1df70-default-source
+File size: 42
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 27 19:36:18 2017
+
+/home/adam/.config/pulse/2cab241caff6c3f2697e187956d1df70-default-sink
+File size: 43
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 27 19:36:18 2017
+
+/home/adam/.config/mono.addins/addin-db-001/fdb-lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec 12 13:32:40 2016
+
+/home/adam/.config/mono.addins/addin-db-001/fdb-update-lock
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec 12 13:32:41 2016
+
+/home/adam/.config/geany/keybindings.conf
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Sun Dec 11 23:41:51 2016
+
+/home/adam/.config/user-dirs.locale
+File size: 5
+File Permissions: 	-rw-r--r--
+Last file modification:   Sat Feb 27 18:40:30 2016
+
+/home/adam/.config/mc/panels.ini
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Mar  9 23:26:48 2016
+
+/home/adam/.config/google-chrome/PepperFlash/25.0.0.127/manifest.fingerprint
+File size: 66
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 27 19:42:22 2017
+
+/home/adam/.config/google-chrome/FileTypePolicies/8/manifest.json
+File size: 75
+File Permissions: 	-rw-------
+Last file modification:   Wed Dec 14 17:26:50 2016
+
+/home/adam/.config/google-chrome/FileTypePolicies/8/manifest.fingerprint
+File size: 66
+File Permissions: 	-rw-r--r--
+Last file modification:   Fri Dec 16 19:04:40 2016
+
+/home/adam/.config/google-chrome/SingletonLock
+File size: 16
+File Permissions: 	-rwxrwxrwx
+Last file modification:   Mon Mar 27 19:47:14 2017
+
+/home/adam/.config/google-chrome/SingletonCookie
+File size: 20
+File Permissions: 	-rwxrwxrwx
+Last file modification:   Mon Mar 27 19:47:14 2017
+
+/home/adam/.config/google-chrome/SingletonSocket
+File size: 46
+File Permissions: 	-rwxrwxrwx
+Last file modification:   Mon Mar 27 19:47:14 2017
+
+/home/adam/.config/google-chrome/Safe Browsing Cookies-journal
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Tue Mar 28 05:57:40 2017
+
+/home/adam/.config/google-chrome/First Run
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Mar  9 20:16:59 2016
+
+/home/adam/.config/google-chrome/CertificateTransparency/338/manifest.json
+File size: 67
+File Permissions: 	-rw-------
+Last file modification:   Tue Jan  1 00:00:00 1980
+
+/home/adam/.config/google-chrome/CertificateTransparency/338/manifest.fingerprint
+File size: 66
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 27 19:42:23 2017
+
+/home/adam/.config/google-chrome/pnacl/0.57.44.2492/manifest.fingerprint
+File size: 66
+File Permissions: 	-rw-r--r--
+Last file modification:   Thu Mar  9 22:57:35 2017
+
+/home/adam/.config/google-chrome/EVWhitelist/7/manifest.fingerprint
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Wed Mar  9 20:23:06 2016
+
+/home/adam/.config/google-chrome/Subresource Filter/Unindexed Rules/4/manifest.fingerprint
+File size: 66
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 14:00:24 2016
+
+/home/adam/.config/google-chrome/Channels
+File size: 6
+File Permissions: 	-rw-------
+Last file modification:   Sun Dec  4 21:43:46 2016
+
+/home/adam/.config/google-chrome/Safe Browsing Channel IDs-journal
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Dec  5 13:56:19 2016
+
+/home/adam/.config/google-chrome/Default/GCM Store/MANIFEST-000001
+File size: 41
+File Permissions: 	-rw-------
+Last file modification:   Thu Mar  9 23:11:46 2017
+
+/home/adam/.config/google-chrome/Default/GCM Store/LOCK
+File size: 0
+File Permissions: 	-rw-------
+Last file modification:   Thu Mar  9 23:11:46 2017
+
+/home/adam/.config/google-chrome/Default/GCM Store/CURRENT
+File size: 16
+File Permissions: 	-rw-------
+Last file modification:   Thu Mar  9 23:11:46 2017
+
+/home/adam/.config/google-chrome/Default/Extension Cookies-journal
+File size: 0
+File Permissions: 	-rw-r--r--
+Last file modification:   Mon Mar 27 19:47:45 2017
+
+/home/adam/.config/google-chrome/Default/Login Data-journal
+File size: 0
+File Permissions: 	-rw-------
+Last file modification:   Mon Mar 27 19:47:21 2017
+
+/home/adam/.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.1_0/main.html
+File size: 92
+File Permissions: 	-rw-------
+Last file modification:   Tue Feb  3 14:08:52 2015
+
+/home/adam/.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.1_0/main.js
+File size: 95
+File Permissions: 	-rw-------
+Last file modification:   Tue Feb  3 14:08:52 2015
+
+/home/adam/.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5516.1005.0.3_0/cast_setup/offers.html
+File size: 59
+File Permissions: 	-rw-------
+Last file modification:   Mon Nov  7 15:06:46 2016
+
+/home/adam/.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5516.1005.0.3_0/cast_setup/devices.html
+File size: 59
+File Permissions: 	-rw-------
+Last file modification:   Mon Nov  7 15:06:46 2016
+
+/home/adam/.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5516.1005.0.3_0/cast_setup/setup.html
+File size: 59
+File Permissions: 	-rw-------
+Last file modification:   Mon Nov  7 15:06:46 2016
+
+/home/adam/.config/google-chrome/Default/Extensions/eeedcpdcehnikgkhbobmkjcipjhlbmpn/5.1.1_0/js/background.js
+File size: 21
+File Permissions: 	-rw-------
+Last file modification:   Sat Mar  4 19:49:20 2017
+
+/home/adam/.config/google-chrome/Default/Extensions/fhbjgbiflinjbdggehcddcbncdddomop/4.10.4_0/js/tester/jQueryNoConflict.js
+File size: 100
+File Permissions: 	-rw-------
+Last file modification:   Wed Mar 22 11:02:24 2017
+
+/home/adam/.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.9_0/main.html
+File size: 92
+File Permissions: 	-rw-------
+Last file modification:   Tue Feb  3 14:03:32 2015
+
+/home/adam/.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.9_0/main.

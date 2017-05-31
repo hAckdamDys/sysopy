@@ -1,0 +1,403 @@
+//for program fast1.cpp:
+#include <iostream>
+#include <string>
+#include <list>
+using namespace std;
+int main()
+{
+  
+  //1,3,4,7,11,17,25,38,56,83
+  unsigned long n = 1000;
+  register unsigned long i=0;
+  unsigned long A[]={1,3,0,0,0};
+  for(unsigned long j=0;j<1000000;++j){
+	  while(i<n){
+		//cout<<A[i%5]<<',';
+		A[(i+2)%5]=A[i%5]+A[(i+1)%5]-A[(i+2)%5];
+		++i;
+	  }
+	  n++;
+	  cout<<A[2];
+  }
+}
+/*
+I measure time for running program 30 times in powershell:
+Measure-Command {ForEach($item in 1..30) {.\command.exe}} | Format-Table TotalMilliseconds -auto
+
+g++ -S fast.cpp -Ofast -o fast1ofast.s
+g++ -S fast.cpp -Os -o fast1os.s
+g++ -S fast.cpp -o fast1oN.s
+g++ fast1oN.s -o fastoN.exe
+g++ fast1os.s -o fastos.exe
+g++ fast1ofast.s -o fastofast.exe
+g++ -S fast.cpp -O1 -o fast1o1.s
+g++ fast1o1.s -o fasto1.exe
+g++ -S fast.cpp -O2 -o fast1o2.s
+g++ fast1o2.s -o fasto2.exe
+g++ -S fast.cpp -O3 -o fast1o3.s
+g++ fast1o3.s -o fasto3.exe
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastoN.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13641,7597
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastoN.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13714,6091
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastoN.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13592,6864
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto1.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13413,9767
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto1.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13426,9139
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto2.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13640,9794
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto2.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13575,9246
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto3.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13667,2606
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto3.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13617,6706
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastos.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       14544,7767
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastos.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       14504,2066
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastofast.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13601,3561
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastofast.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13547,6286
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastoN.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13630,0189
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto1.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13519,4717
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto2.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13583,6865
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto3.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13521,2604
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastos.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       14511,8157
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastofast.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13577,9531
+
+	   
+	   
+	   
+these results shows that -o1 was the fastest then -o2,3,fast, and no '-oX' was almost as fast and then -os was a little off from other opt levels
+
+
+
+for other cpp file give like this:
+*/
+#include <iostream>
+#include <string>
+#include <list>
+using namespace std;
+int main()
+{
+  
+  //1,3,4,7,11,17,25,38,56,83
+  register unsigned long n = 1000;
+  register unsigned long i=0,j=1,k=2;
+  unsigned long A[]={1,3,0,0,0};
+  for(unsigned long l=0;l<1000000;++l){
+	  while(i<n){
+		//cout<<A[i%5]<<',';
+		A[k%5]=A[i%5]+A[j%5]-A[k%5];
+		++i;
+		++j;
+		++k;
+	  }
+	  n++;
+	  cout<<A[2];
+  }
+}
+/*
+
+the results were:
+
+g++ -S fast.cpp -o fast2oN.s
+g++ -S fast.cpp -O1 -o fast2o1.s
+g++ -S fast.cpp -O2 -o fast2o2.s
+g++ -S fast.cpp -O3 -o fast2o3.s
+g++ -S fast.cpp -Os -o fast2os.s
+g++ -S fast.cpp -Ofast -o fast2ofast.s
+g++ fast2oN.s -o fast2oNtest.exe
+g++ fast2o1.s -o fast2o1test.exe
+g++ fast2o2.s -o fast2o2test.exe
+g++ fast2o3.s -o fast2o3test.exe
+g++ fast2os.s -o fast2ostest.exe
+g++ fast2ofast.s -o fast2oFastTest.exe
+
+time:
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2o1test.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13644,9158
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2o2test.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+        14086,207
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2oNtest.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13746,7996
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2oNtest.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13731,1219
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2oNtest.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13840,0781
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2oNtest.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13823,4077
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2oNtest.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13795,6288
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastoN.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13788,6608
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2o1test.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13621,6593
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto1.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+        13573,794
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2o2test.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13791,8159
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto2.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13726,0277
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2o3test.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13792,2608
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fasto3.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13699,2288
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2ostest.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       14592,3284
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastos.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       14586,3885
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fast2oFastTest.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13811,1121
+
+
+PS C:\Users\Adm\Desktop\cpp\cpptoasmtests> Measure-Command {ForEach($item in 1..30) {.\fastofast.exe}} | Format-Table TotalMilliseconds -auto
+
+TotalMilliseconds
+-----------------
+       13722,2612
+
+	   
+	   
+	   
+	   
+	   
+this shows that no matter what opt level is trying to improve using i,i+1,i+2 with 3 raising accumulators was slowing down programm
+and that for this task -o1 was the best
+
+to compile and check diffrent code use this for fast1.cpp and fast2.cpp:
+
+powershell timing with:
+
+g++ -S fast1.cpp -o _fast1oN.s
+g++ -S fast1.cpp -O1 -o _fast1o1.s
+g++ -S fast1.cpp -O2 -o _fast1o2.s
+g++ -S fast1.cpp -O3 -o _fast1o3.s
+g++ -S fast1.cpp -Os -o _fast1os.s
+g++ -S fast1.cpp -Ofast -o _fast1ofast.s
+g++ fast1oN.s -o _fast1oNtest.exe
+g++ fast1o1.s -o _fast1o1test.exe
+g++ fast1o2.s -o _fast1o2test.exe
+g++ fast1o3.s -o _fast1o3test.exe
+g++ fast1os.s -o _fast1oStest.exe
+g++ fast1ofast.s -o _fast1oFastTest.exe
+
+g++ -S fast2.cpp -o _fast2oN.s
+g++ -S fast2.cpp -O1 -o _fast2o1.s
+g++ -S fast2.cpp -O2 -o _fast2o2.s
+g++ -S fast2.cpp -O3 -o _fast2o3.s
+g++ -S fast2.cpp -Os -o _fast2os.s
+g++ -S fast2.cpp -Ofast -o _fast2ofast.s
+g++ fast2oN.s -o _fast2oNtest.exe
+g++ fast2o1.s -o _fast2o1test.exe
+g++ fast2o2.s -o _fast2o2test.exe
+g++ fast2o3.s -o _fast2o3test.exe
+g++ fast2os.s -o _fast2oStest.exe
+g++ fast2ofast.s -o _fast2oFastTest.exe
+
+$binarki = [System.Collections.ArrayList]@()
+$binarki.add("_fast1oNtest.exe")
+$binarki.add("_fast1o1test.exe")
+$binarki.add("_fast1o2test.exe")
+$binarki.add("_fast1o3test.exe")
+$binarki.add("_fast1oStest.exe")
+$binarki.add("_fast1oFastTest.exe")
+
+$binarki.add("_fast2oNtest.exe")
+$binarki.add("_fast2o1test.exe")
+$binarki.add("_fast2o2test.exe")
+$binarki.add("_fast2o3test.exe")
+$binarki.add("_fast2oStest.exe")
+$binarki.add("_fast2oFastTest.exe")
+
+
+foreach($exeName in $binarki){echo $exeName ; & Measure-Command {ForEach($item in 1..30) {& .\$exeName}} | Format-Table TotalMilliseconds -auto}
+

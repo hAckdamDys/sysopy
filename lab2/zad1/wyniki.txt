@@ -1,0 +1,95 @@
+shuffle:
+  rekord 4B:
+    10000:
+      sys:
+        Sys Time: 8789 ms, User Time 724 ms
+      lib:
+        Sys Time: 10506 ms, User Time 1620 ms
+    1000:
+      sys:
+        Sys Time: 88 ms, User Time 7 ms
+      lib:
+        Sys Time: 107 ms, User Time 18 ms
+  rekord 512B:
+    5000:
+      sys:
+        Sys Time: 2492 ms, User Time 176 ms
+      lib:
+        Sys Time: 3296 ms, User Time 558 ms
+    1000:
+      sys:
+        Sys Time: 96 ms, User Time 6 ms
+      lib:
+        Sys Time: 127 ms, User Time 28 ms
+  rekord 4096B:
+    5000:
+      sys:
+        Sys Time: 4095 ms, User Time 186 ms
+      lib:
+        Sys Time: 5494 ms, User Time 447 ms
+    1000:
+      sys:
+        Sys Time: 150 ms, User Time 5 ms
+      lib:
+        Sys Time: 203 ms, User Time 16 ms
+  rekord 8192B:
+    5000:
+      sys:
+        Sys Time: 5930 ms, User Time 158 ms
+      lib:
+        Sys Time: 7397 ms, User Time 458 ms
+    1000:
+      sys:
+        Sys Time: 223 ms, User Time 8 ms
+      lib:
+        Sys Time: 274 ms, User Time 14 ms
+
+Juz tutaj widac ze im wieksze rozmiary adresow w pliku i mniej tych adresow tym blizej czasy sys i lib. Dzieki temu widac ze sys przyspiesza na dzialaniu z buferem, im wiecej korzystalismy z bufera tym sys bylo szybsze bo mniej user time bylo uzywane.
+
+
+sort:
+  rekord 4B:
+    10000:
+      sys:
+        Sys Time: 8535 ms, User Time 547 ms
+      lib:
+        Sys Time: 10212 ms, User Time 1578 ms
+    1000:
+      sys:
+        Sys Time: 89 ms, User Time 8 ms
+      lib:
+        Sys Time: 117 ms, User Time 18 ms
+  rekord 512B:
+    5000:
+      sys:
+        Sys Time: 2511 ms, User Time 166 ms
+      lib:
+        Sys Time: 3266 ms, User Time 568 ms
+    1000:
+      sys:
+        Sys Time: 97 ms, User Time 7 ms
+      lib:
+        Sys Time: 125 ms, User Time 31 ms
+  rekord 4096B:
+    5000:
+      sys:
+        Sys Time: 4075 ms, User Time 176 ms
+      lib:
+        Sys Time: 5394 ms, User Time 437 ms
+    1000:
+      sys:
+        Sys Time: 140 ms, User Time 4 ms
+      lib:
+        Sys Time: 211 ms, User Time 15 ms
+  rekord 8192B:
+    5000:
+      sys:
+        Sys Time: 5805 ms, User Time 131 ms
+      lib:
+        Sys Time: 7110 ms, User Time 417 ms
+    1000:
+      sys:
+        Sys Time: 223 ms, User Time 8 ms
+      lib:
+        Sys Time: 274 ms, User Time 14 ms
+

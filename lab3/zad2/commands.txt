@@ -1,0 +1,14 @@
+ls
+ps
+echo 'xd' lol
+./zad2b xd
+#xd dxd
+./zad2b xd
+#xd
+./zad2b xd
+./zad2b PATH
+./zad2c
+./zad2c
+./zad2d 100
+./zad2d 1000
+./zad2d 5000

@@ -1,0 +1,114 @@
+1.Gdy program nie posiadal maskowania sygnalow wynik byl nastepujacy:
+	'''
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 FASDFSADF 1 1
+	Terminated
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 FASDFSADF 2 1
+	Killed
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 FASDFSADF 3 1
+	User defined signal 1
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 FASDFSADF 4 1
+
+	[1]+  Stopped                 ./zad2a 3 rekordy.txt 100 FASDFSADF 4 1
+	'''
+Czyli standardowe interrupty.
+
+2.Gdy program posiadl maskowanie tylko w main threadzie to ten main przejal dane sygnaly:
+	'''
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 1 2
+	main thread with tid(11351) pid(11351) got sigTerm(15) signal
+	exiting
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 2 2
+	Killed
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 3 2
+	main thread with tid(11359) pid(11359) got sigUsr(10) signal
+	exiting
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 4 2
+	[1]+  Stopped                 ./zad2a 3 rekordy.txt 100 adam 4 2
+	'''
+3.Gdy juz watki utworzone tez mialy maskowanie sygnalow i byly pozniej niz ten z maina to sygnal z killa lapal glowny watek ale zamaskowany przez maskowanie ktore bylo w podwatku (-1 zamiast main na poczatku):
+	'''
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 1 3
+	-1 thread with tid(11371) pid(11371) got sigTerm(15) signal
+	exiting
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 2 3
+	Killed
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 3 3
+	-1 thread with tid(11379) pid(11379) got sigUsr(10) signal
+	exiting
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 4 3
+	[1]+  Stopped                 ./zad2a 3 rekordy.txt 100 adam 4 3
+	'''
+4.Gdy wyslalismy sygnal z maina do pierwszego podwatku i sygnaly tylko byly ustawione w main to sygnaly byly maskowane jak w main, a wyslanie killa i stopa pomimo ze byly do watku to oddzialowaly na caly proces:
+	'''
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 1 4
+	main thread with tid(11393) pid(11392) got sigTerm(15) signal
+	exiting
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 2 4
+	Killed
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 3 4
+	main thread with tid(11401) pid(11400) got sigUsr(10) signal
+	exiting
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 4 4
+	[1]+  Stopped                 ./zad2a 3 rekordy.txt 100 adam 4 4
+	'''
+5.Gdy dodalismy maskowanie przez podwatki to maskowanie bylo takie jak w podwatku i sygnaly odbieraly rowniez podwatki do ktorych byly wyslane:
+	'''
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 1 5
+	0 thread with tid(11469) pid(11468) got sigTerm(15) signal
+	exiting
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 2 5
+	Killed
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 3 5
+	0 thread with tid(11477) pid(11476) got sigUsr(10) signal
+	exiting
+	adam@adam-X555LB ~/Desktop/zestaw8/zad2 $ ./zad2a 3 rekordy.txt 100 adam 4 5
+	[1]+  Stopped                 ./zad2a 3 rekordy.txt 100 adam 4 5
+	'''
+6. Gdy wygenerowalem dzielenie przez 0 to zlapal go tylko watek ktory podzielil przez 0 a inne dalej pracowaly:
+dividing now
+	'''
+	i am 7 thread with tid(12276) pid(12268) lalala
+	11 thread with tid(12280) pid(12268) catched that 11 thread divided by 0!!
+	i am 5 thread with tid(12274) pid(12268) lalala
+	i am 6 thread with tid(12275) pid(12268) lalala
+	i am 0 thread with tid(12269) pid(12268) lalala
+	i am 9 thread with tid(12278) pid(12268) lalala
+	i am 8 thread with tid(12277) pid(12268) lalala
+	i am 2 thread with tid(12271) pid(12268) lalala
+	i am 10 thread with tid(12279) pid(12268) lalala
+	i am 1 thread with tid(12270) pid(12268) lalala
+	i am 7 thread with tid(12276) pid(12268) lalala
+	i am 4 thread with tid(12273) pid(12268) lalala
+	i am 3 thread with tid(12272) pid(12268) lalala
+	11 thread with tid(12280) pid(12268) catched that 11 thread divided by 0!!
+	i am 5 thread with tid(12274) pid(12268) lalala
+	i am 6 thread with tid(12275) pid(12268) lalala
+	'''
+Distributor ID:	LinuxMint
+Description:	Linux Mint 17.3 Rosa
+Release:	17.3
+Codename:	rosa
+Kernel: 3.19.0-32-generic
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    2
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 61
+Stepping:              4
+CPU MHz:               2100.000
+BogoMIPS:              4194.20
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              3072K
+NUMA node0 CPU(s):     0-3
+
+
